@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.odd-numbered-elements
+{
+    background-color: #ffa5a5;
+}
+
+#second-number
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.third-number
+{
+    font-size: 24px;
+}
+
+#forth-number
+{
+    background-color: #7fff7f;
+    font-size: 24px;
+    font-weight: bold;
+}
